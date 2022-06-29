@@ -1,1 +1,1 @@
-# awesome-maui
+# Awesome MAUI
