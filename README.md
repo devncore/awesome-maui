@@ -9,3 +9,5 @@
 https://developer.apple.com/download/all/?q=Xcode
 
 13.4.1
+
+<img width="906" alt="스크린샷 2022-07-21 오전 1 41 03" src="https://user-images.githubusercontent.com/52397976/180036945-b2efde47-2ce5-45db-be8f-590fa2b57d38.png">
